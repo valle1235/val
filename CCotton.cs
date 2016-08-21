@@ -9,7 +9,10 @@ namespace Finherrans
     class CCotton : CImageBase
     {
         public CCotton()
-            : base(Resources.)
+            : base(Resources.Cotton)
+            {
+                
+            }
         {
 
         }
